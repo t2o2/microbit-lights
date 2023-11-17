@@ -44,3 +44,7 @@
 -   Broadcast your idea to nearby friends
 
     ![Radio](imgs/radio.png)
+
+### Step 9: More fun to play with
+
+-   Fancy other games? Follow the links [here](https://makecode.microbit.org/examples)
