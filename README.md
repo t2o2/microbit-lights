@@ -9,7 +9,7 @@
 
 ### Step 2: Enter the World of Code
 
--   Click this magic link to go to MakeCode Blocks Editor: [makecode microbit](https://chat.openai.com/c/makecode.microbit.org). It's like our secret portal to fun coding!
+-   Click this magic link to go to MakeCode Blocks Editor: [makecode microbit](https://makecode.microbit.org/). It's like our secret portal to fun coding!
 
 ### Step 3: Discover New Extensions
 
