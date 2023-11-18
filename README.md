@@ -45,6 +45,6 @@
 
     ![Radio](imgs/radio.png)
 
-### Step 9: More fun to play with
+### Step 9: Unlock More Microbit Games and Adventures 🎮🚀
 
--   Fancy other games? Follow the links [here](https://makecode.microbit.org/examples)
+-   Follow the links [here](https://makecode.microbit.org/examples) It's like opening a door to a playground filled with fun coding games and adventures!
